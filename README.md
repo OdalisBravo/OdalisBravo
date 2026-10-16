@@ -1,124 +1,126 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Odalis%20Bravo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20|%20AI%20|%20Cloud%20|%20IoT%20|%20Networks&descAlignY=55&descSize=18" />
-</p>
-# Odalis-Bravo-Depsa
-Professional GitHub profile README
+
+<!-- GitHub profile README | OdalisBravo -->
 <div align="center">
 
-# ✨ Hi, I'm Odalis Bravo | Hola, soy Odalis Bravo ✨
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B19,45:18153B,100:00B4D8&text=ODALIS%20BRAVO&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=SOFTWARE%20%7C%20AI%20%7C%20CLOUD%20%7C%20NETWORKS%20%7C%20IoT&descAlignY=60&descSize=17&animation=fadeIn" alt="Odalis Bravo - Software, AI, Cloud, Networks and IoT" />
 
-### ITIC Student | Future Software & Technology Engineer  
-### Estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones
+<a href="https://github.com/OdalisBravo"><img src="https://img.shields.io/badge/GitHub-OdalisBravo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/odalis-bravo-depsa-463333334/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A5CFA&center=true&vCenter=true&width=700&lines=Passionate+about+Software%2C+AI%2C+Cloud%2C+IoT+and+Networks;Apasionada+por+el+desarrollo%2C+la+IA%2C+la+nube%2C+IoT+y+las+redes;Building+intelligent+and+connected+solutions;Creando+soluciones+inteligentes+y+conectadas" alt="Typing SVG" />
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=IT+%26+Communications+Engineering+Graduate;Software+Developer+%7C+AI+%26+Automation;Cloud+Computing+%7C+Networks+%7C+IoT;Building+intelligent+and+connected+solutions" alt="Animated professional introduction" />
+
+**Egresada de Ingeniería en Tecnologías de la Información y Comunicaciones · Título profesional en trámite**  
+*Information Technology & Communications Engineering Graduate · Degree Pending*
 
 </div>
 
 ---
 
-## 👩‍💻 About Me | Sobre mí
+### `> whoami` · Sobre mí / About me
 
-🇺🇸  
-I'm an ITIC student passionate about software development, artificial intelligence, automation, cloud technologies, networking, and IoT.  
-I enjoy building practical technology solutions that combine development, infrastructure, and innovation.
+```yaml
+name: Odalis Bravo Depsa
+role: IT & Communications Engineering Graduate
+status: Degree pending | Título profesional en trámite
+focus:
+  - Software development & APIs
+  - Artificial intelligence & automation
+  - Cloud computing & databases
+  - Networking, monitoring & IoT
+location: Hidalgo, Mexico
+```
 
-🇲🇽  
-Soy estudiante de ITIC y me apasionan el desarrollo de software, la inteligencia artificial, la automatización, las tecnologías en la nube, las redes y el IoT.  
-Me gusta desarrollar soluciones tecnológicas prácticas que combinan software, infraestructura e innovación.
+🇲🇽 Desarrollo soluciones que conectan **software, automatización e infraestructura tecnológica**. Me interesan el diseño de APIs, los sistemas inteligentes, los servicios en la nube y el monitoreo de redes.
+
+🇺🇸 I build solutions connecting **software, automation, and IT infrastructure**. My interests include API development, intelligent systems, cloud services, and network monitoring.
 
 ---
 
-## 🚀 Technologies & Tools | Tecnologías y Herramientas
+### `> tech --stack` · Tecnologías / Technologies
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![Zabbix](https://img.shields.io/badge/Zabbix-111111?style=for-the-badge&logo=zabbix)
-![ESP32](https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=espressif)
+**Desarrollo / Development**  
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,python,cpp&theme=dark" alt="JavaScript TypeScript React Next.js Node.js HTML CSS Python C++" />
+
+**Cloud, datos y herramientas / Cloud, data & tools**  
+<img src="https://skillicons.dev/icons?i=azure,postgres,linux,git,github,vscode,postman&theme=dark" alt="Azure PostgreSQL Linux Git GitHub VS Code Postman" />
+
+**Redes, automatización e IoT / Networks, automation & IoT**  
+<br />
+<img src="https://img.shields.io/badge/Zabbix-Network%20Monitoring-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+<img src="https://img.shields.io/badge/ESP32-Embedded%20Systems-111827?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/LoRa-IoT%20Communication-5B21B6?style=for-the-badge" alt="LoRa" />
+<img src="https://img.shields.io/badge/n8n-Workflow%20Automation-111827?style=for-the-badge&logo=n8n&logoColor=FF6D5A" alt="n8n" />
 
 </div>
 
 ---
 
-## 🌌 Areas of Interest | Áreas de interés
+### `> ls ./featured-projects` · Proyectos destacados / Featured projects
 
-- Software Development | Desarrollo de software  
-- Artificial Intelligence & Automation | Inteligencia artificial y automatización  
-- Cloud Computing | Computación en la nube  
-- Networking & Telecommunications | Redes y telecomunicaciones  
-- Internet of Things (IoT)  
-- Backend & Web Development  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/OdalisBravo/ProyectIHC">ProyectIHC</a></h3>
+      <p><strong>Next.js · React · TypeScript</strong></p>
+      <p>Proyecto web de interacción humano-computadora.<br /><em>Human-computer interaction web project.</em></p>
+      <a href="https://proyect-ihc.vercel.app">🌐 Demo</a> · <a href="https://github.com/OdalisBravo/ProyectIHC">💻 Código / Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/OdalisBravo/CSS-Cafe">CSS-Cafe</a></h3>
+      <p><strong>HTML · CSS</strong></p>
+      <p>Práctica de maquetación y diseño frontend.<br /><em>Frontend layout and styling practice.</em></p>
+      <a href="https://github.com/OdalisBravo/CSS-Cafe">💻 Código / Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Automation</h3>
+      <p><strong>Node.js · APIs · Azure · PostgreSQL</strong></p>
+      <p>Experiencia en agentes conversacionales, integración de servicios y lógica de automatización.<br /><em>Conversational AI, service integrations, and automation workflows.</em></p>
+      <sub>Experiencia / Experience · Sin código empresarial publicado</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Networks & IoT</h3>
+      <p><strong>Zabbix · Linux · ESP32 · LoRa</strong></p>
+      <p>Experiencia en monitoreo de infraestructura y prototipos conectados.<br /><em>Infrastructure monitoring and connected prototypes.</em></p>
+      <sub>Experiencia / Experience · Documentación pública en preparación</sub>
+    </td>
+  </tr>
+</table>
 
----
-
-## 📌 Featured Projects | Proyectos destacados
-
-### 🔹 [ProyectIHC](https://github.com/OdalisBravo/ProyectIHC)
-Interactive web project built with Next.js and TypeScript.  
-Proyecto web interactivo desarrollado con Next.js y TypeScript.
-
-### 🔹 [CSS-Cafe](https://github.com/OdalisBravo/CSS-Cafe)
-Frontend practice project focused on HTML and CSS design.  
-Proyecto práctico de frontend enfocado en diseño con HTML y CSS.
-
-### 🔹 AI Automation Assistant
-Project focused on automation, APIs, conversational logic, and cloud deployment.  
-Proyecto enfocado en automatización, APIs, lógica conversacional y despliegue en la nube.
-
-### 🔹 IoT Water Monitoring
-IoT project for water quality monitoring using sensors, ESP32, and communication technologies.  
-Proyecto IoT para monitoreo de calidad del agua usando sensores, ESP32 y tecnologías de comunicación.
-
-### 🔹 Network Monitoring with Zabbix
-Infrastructure monitoring project focused on alerts, availability, and network visibility.  
-Proyecto de monitoreo de infraestructura enfocado en alertas, disponibilidad y visibilidad de red.
-
----
-
-## 🌱 Currently | Actualmente
-
-🇺🇸  
-Currently improving my skills in software development, cloud services, intelligent automation, and infrastructure monitoring.
-
-🇲🇽  
-Actualmente estoy fortaleciendo mis habilidades en desarrollo de software, servicios en la nube, automatización inteligente y monitoreo de infraestructura.
+> 🔒 Los proyectos empresariales se describen a nivel técnico general, sin exponer código, datos, credenciales ni configuraciones internas.
 
 ---
 
-## 📫 Contact | Contacto
-
-- GitHub: [github.com/OdalisBravo](https://github.com/OdalisBravo)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Odalis%20Bravo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odalis-bravo-depsa-463333334/)
-- Email: [obravodepsa@gmial.com]
-
----
-
-## 📊 GitHub Stats
+### `> git stats` · Actividad / Activity
 
 <div align="center">
 
-![Odalis's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdalisBravo&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdalisBravo&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OdalisBravo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE" alt="GitHub activity statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdalisBravo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Languages in public GitHub repositories" />
+
+<sub>Estas métricas reflejan solo la actividad y los repositorios contabilizados por servicios externos; no representan toda mi experiencia técnica.</sub>
 
 </div>
 
 ---
 
+### `> connect --with-me` · Contacto / Get in touch
+
 <div align="center">
 
-### 💜 Thanks for visiting my profile | Gracias por visitar mi perfil 💜
+<a href="https://www.linkedin.com/in/odalis-bravo-depsa-463333334/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/OdalisBravo"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-171515?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" /></a>
+
+<br /><br />
+
+**`Code. Connect. Innovate.`**  
+*Desarrollar · Conectar · Innovar*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:070B19,45:18153B,100:00B4D8" alt="Footer" />
 
 </div>
